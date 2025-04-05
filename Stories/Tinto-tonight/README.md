@@ -1,6 +1,6 @@
 # Tinto tonight
 
-[Read the story](https://jimtyhurst.github.io/twine-stories/Stories/Tinto-tonight/Tinto-tonight.html).
+## [Read the story](https://jimtyhurst.github.io/twine-stories/Stories/Tinto-tonight/Tinto-tonight.html)
 
 ## Notes
 
