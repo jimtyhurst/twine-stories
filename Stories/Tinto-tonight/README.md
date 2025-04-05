@@ -1,12 +1,12 @@
 # Tinto tonight
 
-Read the story [here](./Tinto-tonight.html).
+[Read the story](https://jimtyhurst.github.io/twine-stories/Stories/Tinto-tonight/Tinto-tonight.html).
 
-This is my first attempt to write a story in [Twine](https://twinery.org/).
+## Notes
 
-I only used [hyperlinks](https://twine2.neocities.org/#markup_link); no other Twine features.
-
-During the writing process, I experimented with the 'Find and Replace' feature as I was refactoring text while inserting new passages.
+- This is my first attempt to write a story in [Twine](https://twinery.org/).
+- I only used [hyperlinks](https://twine2.neocities.org/#markup_link); no other Twine features.
+- During the writing process, I experimented with the [Find and Replace](https://twinery.org/reference/en/editing-stories/finding-replacing.html) feature in the desktop app, as I was refactoring text while inserting new passages.
 
 ## Development environment
 
